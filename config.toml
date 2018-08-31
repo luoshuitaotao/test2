@@ -6,7 +6,7 @@ paginate        = 6
 #SectionPagesMenu = "main"
 
 [params]
-  title       = "Test Site"
+  title       = "Welcome to My Test Site"
   subtitle    = "My First Hugo Site"
 
   cover       = "upload/photo3.jpeg"
@@ -40,21 +40,21 @@ paginate        = 6
   post = "/:slug/"
 
 [[menu.main]]
-  name = "Home"
+  name = "Main"
   url = "/"
   weight = 200
 
 [[menu.main]]
-  name = "Go"
-  url = "/tags/golang/"
+  name = "Project"
+  url = "/tags/project/"
   weight = 100
 
 [[menu.main]]
-  name = "Food"
-  url = "/categories/food/"
-  weight = 99
+  name = "Contact Us"
+  url = "/categories/contact/"
+  weight = 100
 
 [[menu.main]]
-  name = "External"
-  url = "https://google.com/"
+  name = "Visit UNO"
+  url = "https://www.unomaha.edu"
   weight = 95

@@ -3,6 +3,8 @@ title: "My First Post"
 date: 2018-08-30T21:45:53-05:00
 draft: false
 image: "upload/photo.jpg"
+tags: ["Project"]
+categories: ["contact"]
 ---
 
 # Awesome Test Different Functions
